@@ -12,6 +12,6 @@
 
 <img width="389" height="570" alt="simulador remuneraciones React Native 4" src="https://github.com/user-attachments/assets/d366cc9c-d247-4f38-b7f9-b30ed3506d43" />
 
-
+PDF creado:
 
 <img width="662" height="852" alt="simulador remuneraciones React Native 5" src="https://github.com/user-attachments/assets/b6b7e4a9-de90-4338-a567-41fef33ea8d2" />
