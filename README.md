@@ -1,5 +1,6 @@
 <img width="390" height="760" alt="simulador remuneraciones React Native 1" src="https://github.com/user-attachments/assets/cecc31cd-3077-4d25-bb47-7b97535abc96" />
-\n
+
+
 <img width="391" height="695" alt="simulador remuneraciones React Native 2" src="https://github.com/user-attachments/assets/0e8bb85e-d767-4dc8-ba0a-8462e820cfc1" />
 
 Al ingresar los datos se genera la liquidación de sueldo en la app
