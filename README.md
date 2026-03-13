@@ -1,3 +1,4 @@
+Para utilizar ejecutar npx expo start
 <img width="390" height="760" alt="simulador remuneraciones React Native 1" src="https://github.com/user-attachments/assets/cecc31cd-3077-4d25-bb47-7b97535abc96" />
 
 
